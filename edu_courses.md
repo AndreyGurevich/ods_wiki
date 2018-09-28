@@ -1,21 +1,14 @@
-## Рекомендации курсов
+| Курс                                                         | Авторы курса              | Комментарии                                                  |
+| ------------------------------------------------------------ | ------------------------- | ------------------------------------------------------------ |
+| [Открытый курс машинного обучения](https://habr.com/company/ods/blog/322626/) | Юрий Кашницкий сотоварищи |                                                              |
+| [Программирование на Python](https://stepik.org/course/67/)  | Институт биоинформатики   | Довольно просто излагается материал. Может подойти людям вообще без опыта программирования. |
+| [fast.ai](http://course.fast.ai/)                            |                           | Быстро практика в стиле "смотри что можно сделать", а потом уже теория "как это сделать хорошо". |
+| [CS231n](http://cs231n.stanford.edu/)                        | Stanford                  |                                                              |
+| [deeplearning.ai](https://www.coursera.org/specializations/deep-learning) | Andrew Ng                 | Нейнонные сети. Специализация из 5 курсов на Coursera. Изложение довольно понятное, Andrew не вдаётся в жёсткий матан. |
+| [Видео-лекции](https://www.youtube.com/channel/UCQj_dwbIydi588xrfjWSL5g) | sim0nsays                 |                                                              |
+|                                                              |                           |                                                              |
+|                                                              |                           |                                                              |
+|                                                              |                           |                                                              |
 
-### Математическая база
 
-### Python
 
-[Stepic, "Программирование на Python"](https://stepik.org/course/67/)
-
-### Machine Learning
-
-### Deep Learning
-
-[fast.ai: быстро практика, а потом уже теория.](http://course.fast.ai/)
-
-[CS231n Stanford](http://cs231n.stanford.edu/)
-
-[Специализация deeplearning.ai от Andrew Ng](https://www.coursera.org/specializations/deep-learning)
-
-[Видео-лекции от sim0nsays](https://www.youtube.com/channel/UCQj_dwbIydi588xrfjWSL5g)
-
-## 

@@ -14,3 +14,8 @@
 
 Обсуждение [тут](https://opendatascience.slack.com/archives/C047H3DP4/p1537784622000100)
 
+### Отслеживание прогресса выполнения кода
+1. Сообщения из кода в telegram через [telegram-send](https://habr.com/post/339682/).
+2. tqdm
+3. [tqdm в Telegram](https://github.com/ermakovpetr/tg_tqdm)
+4. [telegram callback для Keras](https://github.com/qubvel/keras_telegram_callback)
