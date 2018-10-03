@@ -5,7 +5,7 @@
 | [hackerrank.com](https://www.hackerrank.com/) |                                                              |
 | [py.checkio.org](https://py.checkio.org/)     |                                                              |
 | [realpython.com](https://realpython.com/)     | Изучение Python. Подходит для очень разных уровней знания языка. Есть функционал Where to Start. |
-|                                               |                                                              |
+| [Git book](https://git-scm.com/book/ru/v1)    | Документация по работе с Git.                                |
 |                                               |                                                              |
 
 
