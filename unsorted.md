@@ -19,3 +19,6 @@
 2. tqdm
 3. [tqdm в Telegram](https://github.com/ermakovpetr/tg_tqdm)
 4. [telegram callback для Keras](https://github.com/qubvel/keras_telegram_callback)
+
+### SOTA в NLP
+https://nlpprogress.com/

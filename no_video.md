@@ -7,7 +7,4 @@
 | [realpython.com](https://realpython.com/)                    | Изучение Python. Подходит для очень разных уровней знания языка. Есть функционал Where to Start. |
 | [Git book](https://git-scm.com/book/ru/v1)                   | Документация по работе с Git.                                |
 | [Как правильно «фармить» Kaggle](https://habr.com/company/ods/blog/426227/) | Отличная статья. Содержит много полезного не только для Kaggle, но и для промышленной работы. |
-|[Машинное обучение для людей](https://vas3k.ru/blog/machine_learning/)|Первая прочитанная мной статья, в которой и правда человеческим языком описаное основное про ML.|
-
-
-
+| [https://the-learning-machine.com/](https://the-learning-machine.com/) | Серия курсов по [линейной алгебре](https://the-learning-machine.com/article/machine-learning/linear-algebra), [матану](https://the-learning-machine.com/article/machine-learning/calculus), [методам оптимизации](https://the-learning-machine.com/article/machine-learning/unconstrained-optimization)|
