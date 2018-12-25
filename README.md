@@ -18,4 +18,5 @@
 
 ### Направления применения ML/DL
 [Временные ряды](/application_domains/time_series.md)
+
 [Работа с текстом](/application_domains/text_analysis.md)
