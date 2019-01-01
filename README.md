@@ -16,6 +16,9 @@
 
 [ML для людей](/common/ml_for_people.md), у которых ML не является основной специализацией.
 
+[AutoML](/common/auto_ml.md), или как можно попробовать рутину повесить на CPU.
+
+
 ### Направления применения ML/DL
 [Временные ряды](/application_domains/time_series.md)
 

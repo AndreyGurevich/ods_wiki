@@ -39,3 +39,9 @@ Host kompdoma
 перезапускаем сервис
 `sudo systemctl restart sshd`
 больше ssh не отваливается никогда
+
+### Conda в Google Cloud
+Вот [https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52](тут) хорошее описание. Есть нюанс: для того, чтобы устанавливать пакеты, октоыре требуют компиляции, надо компилятор установить:
+`sudo apt-get install build-essential`
+
+Но всё равно вылезают какие-то проблемы с удалённым подключением снаружи к запущенному jupyter. Если кто набил руку на настройке - шлите PR.
