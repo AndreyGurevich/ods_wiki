@@ -8,7 +8,7 @@
 |Инструмент|Текст|Картинки|Видео|Комментарии|
 | ---- | ---- | ---- | ---- | ---- |
 |[labelImg](https://github.com/tzutalin/labelImg)||||Веб-интерфейса нет, ставится как приложение.|
-|[supervise.ly]()||||      |
+|[supervise.ly]()||+||[Описание возможностей](https://hackernoon.com/%EF%B8%8F-advanced-annotation-tools-in-deep-learning-training-data-for-computer-vision-with-supervisely-847f8699a9cb), [Возможности в связке с YOLOv3](https://medium.com/@deepsystems/human-in-the-loop-for-object-detection-with-supervisely-and-yolo-v3-fa205ff07c1f)|
 |[cvat](https://github.com/opencv/cvat)||+|+|**movchan74**:  CVAT имеет перегруженный интерфейс, xml (json в scalabel), но разметка работает хорошо. |
 |[scalabel](https://github.com/ucbdrive/scalabel)|||| **movchan74**: Интерфейс у  Scalabel лучше, но имеет проблемы с удобством расстановки боксов: очень сложно изменить, т.к. он делает новый бокс если немного промахнулся, а бокс до самого края вообще не делается, надо потом исправлять. У них даже в демо видео эти проблемы видны https://www.youtube.com/watch?v=eiqy9uTpKQo&feature=youtu.be |
 |[prodi.gy](https://prodi.gy/features/named-entity-recognition)|+||| NER, Text Classification. 3 уровня платных лицензий. |
