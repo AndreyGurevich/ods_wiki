@@ -18,6 +18,8 @@
 
 [AutoML](/common/auto_ml.md), или как можно попробовать рутину повесить на CPU.
 
+[Проекты участников сообщества](/common/great_projects.md), которые могут быть очень полезны.
+
 
 ### Направления применения ML/DL
 [Временные ряды](/application_domains/time_series.md)
