@@ -13,6 +13,7 @@
 |[scalabel](https://github.com/ucbdrive/scalabel)|||| **movchan74**: Интерфейс у  Scalabel лучше, но имеет проблемы с удобством расстановки боксов: очень сложно изменить, т.к. он делает новый бокс если немного промахнулся, а бокс до самого края вообще не делается, надо потом исправлять. У них даже в демо видео эти проблемы видны https://www.youtube.com/watch?v=eiqy9uTpKQo&feature=youtu.be |
 |[prodi.gy](https://prodi.gy/features/named-entity-recognition)|+||| NER, Text Classification. 3 уровня платных лицензий. |
 |[brat](http://brat.nlplab.org/)|+|-|-| NER |
+|[labelme](https://github.com/wkentaro/labelme)|-|+|+|Умеет экспортировать даратесы в форматах VOC и COCO|
 
 Обсуждение [тут](https://opendatascience.slack.com/archives/C047H3DP4/p1537784622000100)
 
