@@ -1,4 +1,4 @@
-### Проекты участников сообщества
+### Проекты участников сообщества (и не только)
 #### albumentations
 https://github.com/albu/albumentations - быстрая библиотека для аугментаций изображений.
 
@@ -11,6 +11,9 @@ https://github.com/albu/albumentations - быстрая библиотека д�
 * [Classification models](https://github.com/qubvel/classification_models) - модели разных архитектур с pre-trained весами
 * [Keras callback in Telegram](https://github.com/qubvel/keras_telegram_callback)
 * и т.д.
+
+#### Больше pre-trained сетей на pytorch
+https://github.com/Cadene/pretrained-models.pytorch
 
 #### Pytorch-toolbelt
 https://github.com/BloodAxe/pytorch-toolbelt
