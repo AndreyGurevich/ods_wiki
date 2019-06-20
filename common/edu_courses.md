@@ -11,6 +11,6 @@
 | [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | DeepMind                  | This course, taught originally at UCL and recorded for online access, has two interleaved parts that converge towards the end of the course. One part is on machine learning with deep neural networks, the other part is about prediction and control using reinforcement learning. The two strands come together when we discuss deep reinforcement learning, where deep neural networks are trained as function approximators in a reinforcement learning setting. |
 | [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) |                           | Лекции, слайды и лабы с Deep RL Bootcamp                     |
 |[ DeepNLP Course](https://github.com/DanAnastasyev/DeepNLP-Course)|Dan Anastasyev (qbic)|Сам курс почти полностью в colab - только практика, только хардкор. Разобраны вещи от логистической регрессии на bag-of-words до BERT - всё вполне современно. Ну, и дана куча ссылок на доп материалы к каждому занятию, так что должны быть вполне реально в этом разбираться самостоятельно.|
-
+|[Специализация "Машинное обучение и анализ данных" на Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis)|МФТИ и Яндекс| Специализация Яндекса и МФТИ – сейчас самая полная образовательная онлайн-программа по машинному обучению|
 
 
