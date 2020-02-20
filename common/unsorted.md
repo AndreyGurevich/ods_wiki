@@ -15,6 +15,7 @@
 |[brat](http://brat.nlplab.org/)|+|-|-| NER |
 |[doccano](https://github.com/chakki-works/doccano)|+|-|-|doccano is an open source text annotation tool for human. It provides annotation features for text classification, sequence labeling and sequence to sequence. So, you can create labeled data for sentiment analysis, named entity recognition, text summarization and so on. Just create project, upload data and start annotation. You can build dataset in hours.|
 |[labelme](https://github.com/wkentaro/labelme)|-|+|+|Умеет экспортировать даратесы в форматах VOC и COCO|
+|[picsell-ia](https://www.picsell-ia.com/)|-|+| |  |Реализация http://people.ee.ethz.ch/~cvlsegmentation/dextr/|
 
 Обсуждение [тут](https://opendatascience.slack.com/archives/C047H3DP4/p1537784622000100)
 
